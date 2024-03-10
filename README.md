@@ -1,2 +1,2 @@
 # main
-<h3> Drop me an email at cassandrakayex@gmail.com to request access to my private repo.</h3>h3
+<h5> List of my mini projects? Drop me an email at cassandrakayex@gmail.com to request access.</h5>
